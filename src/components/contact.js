@@ -41,6 +41,16 @@ export const Contact = () => {
 							</a>
 						</td>
 					</tr>
+					<tr>
+						<td>LinkedIn</td>
+						<td>
+							<a href = "https://www.linkedin.com/in/wu-g-351b3983/"
+								target = "_blank"
+								rel = "noopener noreferrer">
+								https://www.linkedin.com/in/wu-g-351b3983/
+							</a>
+						</td>
+					</tr>
 				</tbody>
 			</Table>
 		</Col>
