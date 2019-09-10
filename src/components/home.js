@@ -9,7 +9,8 @@ export const Home = () => {
 			text: `Hi. I'm Wu Guanqun. Everyone calls me Guan. I'm currently
 				studying Computer Science (CS) and Electrical and Computer Engineering (ECE)
 				at Cornell University's College of Engineering (As of 2019).
-				I intend to graduate in May 2020.
+				I intend to graduate in Dec 2020 and pursue an early admit
+				MEng from Aug 2020 - May 2021.
 				I'm from Singapore and yes, I have done my 2 years of compulsory
 				military service. I was trained as a service medic and spent my
 				time working at the SAF physiotherapy center. I'm currently
